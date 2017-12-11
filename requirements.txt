@@ -1,0 +1,5 @@
+featuretools
+jupyter
+pandas
+scikit-learn
+numpy
